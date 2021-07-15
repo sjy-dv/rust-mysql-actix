@@ -1,0 +1,12 @@
+{
+    "app" : {
+        "url" : "127.0.0.1",
+        "port" : 8081
+    },
+    "dao" : {
+        "user" : "root",
+        "password" : 1111,
+        "address" : "localhost",
+        "database" : "rootdb"
+    }
+}
